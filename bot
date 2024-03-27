@@ -1,5 +1,4 @@
-import json
-import logging
+
 
 import telebot
 from telebot.types import ReplyKeyboardMarkup
