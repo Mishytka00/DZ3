@@ -1,0 +1,15 @@
+MAX_USERS = 4
+MAX_SESSIONS = 4
+MAX_TOKENS = 510
+TEMPERATURE = 1
+
+DATABASE_NAME = 'Users'
+TABLE_NAME = 'gpt_users'
+LOG_NAME = "logging_file_ya_gpt.txt"
+
+IAM_TOKEN = ""
+GPT_MODEL = 'yandexgpt-lite'
+FOLDER_ID = ''
+URL = "https://llm.api.cloud.yandex.net/foundationModels/v1/completion"
+
+TOKEN = ""
